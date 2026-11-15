@@ -1,0 +1,11 @@
+{
+  "answer_key": {
+    "Q1": "B",
+    "Q2": "A",
+    "Q3": "D",
+    "Q4": "C",
+    "Q5": "B"
+  },
+  "pass_mark": 50,
+  "responses_csv": "student_id,name,Q1,Q2,Q3,Q4,Q5\nDEMO001,Demo Student 1,B,A,D,C,B\nDEMO002,Demo Student 2,A,A,D,B,B\nDEMO003,Demo Student 3,B,C,A,C,\nDEMO004,Demo Student 4,C,B,D,A,C\nDEMO005,Demo Student 5,B,A,D,C,A\n"
+}
